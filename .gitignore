@@ -1,0 +1,8 @@
+*.pyc
+/logs/debug.log
+__pycache__/
+db.sqlite3
+.idea
+mlenv/
+yolo/checkpoints/
+images/

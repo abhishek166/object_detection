@@ -1,0 +1,6 @@
+Django==2.2.5
+djangorestframework==3.10.3
+tensor2tensor==1.14.1
+tensorboard==2.0.2
+tensorflow==2.0.0
+
